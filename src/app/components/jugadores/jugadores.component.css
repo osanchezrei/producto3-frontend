@@ -1,9 +1,0 @@
-.list-group {
-  width: 350px;
-}
-.jugador-id {
-  overflow: hidden;
-  white-space: nowrap;
-  width: 40px;
-  text-overflow: ellipsis;
-}
